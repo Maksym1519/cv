@@ -19,6 +19,10 @@ dd {
   user-select: none;
 }
 
+a {
+  color: grey;
+}
+
 .title {
   font-size: 32px;
   margin: 0 0 24px;
@@ -203,6 +207,7 @@ dd {
   align-items: center;
   column-gap: 8px;
   cursor: pointer;
+  color: grey;
 
   img {
     width: 24px;
