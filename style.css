@@ -111,7 +111,7 @@ dd {
   width: 100%; }
 
 .resume__sidebar-languages-level.english::before {
-  width: 60%; }
+  width: 75%; }
 
 .resume__sidebar-hobbies {
   padding: 24px 0 0; }
@@ -259,5 +259,11 @@ dd {
   .resume__sidebar-photo {
     width: 140px;
     height: 140px; } }
+
+    a {
+      text-decoration: none;
+      color: #131212;
+      font-weight: 700;
+    }
 
 /*# sourceMappingURL=style.css.map */
